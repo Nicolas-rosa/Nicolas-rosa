@@ -93,19 +93,6 @@ const castro = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Live Demo | What it is | Problem solved (com impacto) | Stack |
-|---|---|---|---|---|
-| 🎬 **[FreeDownloader](https://github.com/Nicolas-rosa/FreeDownloader)** | [🔗 Ver demo](https://free-downloader.vercel.app/) *(ajuste a URL real do deploy)* | YouTube video downloader com backend Flask + yt-dlp | Contornou bloqueios de IP/bot-detection em produção — *adicione um número real, ex: "reduziu falhas de download em X%"* | `Python` `Flask` `Vercel` |
-| 🗡️ **[Rpg-MASTER](https://github.com/Nicolas-rosa/Rpg-MASTER)** | [🔗 Ver demo](https://rpg-master.vercel.app/) | SPA de RPG em React, otimizado com SSG para SEO/AdSense | Resolveu o problema de HTML vazio para crawlers, tornando o site elegível para AdSense — *adicione número, ex: "indexação em X dias" ou "N páginas indexadas"* | `JavaScript` `React` `Vite` `SSG` |
-| ⚔️ **[reforcando_java](https://github.com/Nicolas-rosa/reforcando_java)** | *(projeto CLI — sem demo web; se quiser, grave um GIF do terminal e linke aqui)* | Simulação estilo Mobile Legends via linha de comando | Modelagem de lógica de jogo e design OOP em Java puro | `Java` `CLI` |
-| 🌍 **TransformMod** | *(adicione aqui o link do repositório, CurseForge ou página da comunidade do mod)* | Mod para WorldBox com sistema de transformação de criaturas | Engenharia reversa de uma API de modding não documentada | `C#` `NeoModLoader` |
-
-> ⚠️ **Ação pendente:** os campos entre *itálico* acima precisam do link real (demo ao vivo, ou repositório/comunidade do TransformMod) e de um número concreto de impacto — troque antes de publicar.
-
----
-
 ## 📈 GitHub Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-rosa&layout=compact&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0D1117&langs_count=8)
