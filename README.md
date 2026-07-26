@@ -14,10 +14,11 @@
 
 ---
 
-## 🟢 Aberto a oportunidades
+## 🟢 Open to Opportunities
 
-**Buscando:** vagas de Estágio, Desenvolvedor Júnior ou projetos Freelance — **remoto ou presencial (Brasil)**.
-Foco em Full-Stack (Python/Flask + JavaScript/React), com trânsito confortável por Java e C#.
+**Looking for:** Internship, Junior Software Developer, or Freelance opportunities — **remote or on-site (Brazil or worldwide).**
+
+Focused on building solid projects that solve real-world problems.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolas-rosa-dev/">
@@ -63,10 +64,10 @@ const castro = {
 
 ## 📚 Currently Learning
 
-> Estudando ativamente para me manter alinhado com o que o mercado pede em vagas Full-Stack Jr:
+> Actively studying to stay aligned with the skills expected from Junior Full-Stack Developers.
 
-- 🔍 **JS internals & Web Performance** — entendendo o motor por trás do que já uso no dia a dia
-- 🧪 *(adicione aqui se estiver estudando: TypeScript, testes automatizados, Docker, cloud, etc.)*
+- 🔍 **JavaScript Internals & Web Performance** — understanding the engine behind the technologies I use every day
+- 🧪 Currently learning **Automated Testing, Docker, and Cloud Computing**
 
 ---
 
@@ -100,10 +101,15 @@ const castro = {
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-rosa&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=1F7A4D)
 
 <!--
-  Removidas as badges de "GitHub Stats" gerais e de "Trophies": com contribuições/stars ainda baixas,
-  elas chamam atenção para o lado errado numa triagem rápida. Volte a exibi-las quando tiver
-  atividade real mais forte (mais commits, mais repositórios públicos, contribuições open source).
-  Alternativa: substitua este espaço por uma seção de certificações ou artigos escritos, se tiver.
+  GitHub Stats and Trophies badges have been intentionally removed.
+  With a relatively small number of contributions and stars, they tend to highlight
+  the wrong metrics during a quick recruiter review.
+
+  I'll add them back once I have stronger public activity
+  (more commits, more public repositories, and open-source contributions).
+
+  Alternatively, this section can later be replaced with certifications,
+  technical articles, or notable projects.
 -->
 
 ---
