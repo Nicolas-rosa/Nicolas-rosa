@@ -46,17 +46,32 @@ const castro = {
 
 <br/>
 
-## 🛠️ Stack & Tools
+## 🛠️ Technologies & Tools
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,js,react,flask,cs,html,css,git,github,vscode,linux,vercel&theme=dark&perline=7" />
+**Languages & Frameworks**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
 </div>
 
-<div align="center">
+**Development Tools**
 
-![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0D2818)
-![Java](https://img.shields.io/badge/Java-1F7A4D?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-134E36?style=for-the-badge&logo=javascript&logoColor=39FF14)
+<div align="left">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
 
@@ -124,50 +139,6 @@ const castro = {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-rosa&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=1F7A4D" width="100%"/>
 </div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Nicolas-rosa/Nicolas-rosa/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation — only shows after the GitHub Action below has run at least once"/>
-</div>
-
-> ⚠️ **This image is currently broken because the GitHub Action hasn't been created/run yet on the `Nicolas-rosa/Nicolas-rosa` repo.** It's not a mistake in the README — the `output` branch and the SVG file simply don't exist until the workflow below runs. The **Contribution Calendar** above (`ghchart`) works right now with zero setup, so your profile isn't broken while you set the snake up.
-
-<details>
-<summary>👉 Click to see how to activate the snake (one-time setup)</summary>
-
-1. In `Nicolas-rosa/Nicolas-rosa`, create the file `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Nicolas-rosa
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Go to the **Actions** tab → select "Generate Snake" → **Run workflow** manually once.
-3. Wait ~1 minute — GitHub will create the `output` branch with the SVG, and the image above will start rendering.
-
-</details>
 
 <br/>
 
