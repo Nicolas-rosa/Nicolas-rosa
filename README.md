@@ -16,7 +16,7 @@
 
 ## 🟢 Open to Opportunities
 
-**Looking for:** Internship, Junior Software Developer, or Freelance opportunities — **remote or on-site (Brazil or worldwide).**
+**Looking for:** Internship, Software Developer, or Freelance opportunities — **remote or on-site (Brazil or worldwide).**
 
 Focused on building solid projects that solve real-world problems.
 
@@ -41,7 +41,7 @@ Focused on building solid projects that solve real-world problems.
 const castro = {
   location: "Brazil 🇧🇷",
   role: "Full-Stack Developer — I care more about solving the problem than about the stack I use to solve it",
-  approach: "Pick whatever tool fits — Python for backend logic, Java for CLI/OOP challenges, JavaScript for the web, C# when it's time to mod a game engine",
+  approach: "Pick whatever tool fits — Python, Java, JavaScript and C#",
   mindset: "Learn a bit of everything, go deep when a project demands it, and never stop shipping",
   currentlyDoing: [
     "Building and deploying full web apps (backend + frontend + infra)",
@@ -55,7 +55,7 @@ const castro = {
 - 🧩 **Generalist by design** — comfortable moving between backend (Python/Flask), frontend (JavaScript/React), and systems-level code (Java, C#)
 - 🔭 Currently building **end-to-end** products — API, database, UI and deployment, all handled by me
 - 🐍 **Python** for automation, scraping and backend services
-- ☕ **Java** for CLI applications, simulations and OOP practice
+- ☕ **Java** for CLI applications, simulations and OOP practice and API
 - 🟨 **JavaScript** for the web — from vanilla DOM manipulation to React
 - 🎮 Also into low-level, unconventional problem solving: built a creature transformation system in **C#** for a WorldBox mod
 - ⚡ I enjoy fixing "ugly" real-world production problems more than writing textbook code
