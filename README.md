@@ -30,7 +30,7 @@ Focused on building solid projects that solve real-world problems.
   <a href="https://github.com/Nicolas-rosa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Se tiver e-mail e/ou portfólio, adicione mais dois badges aqui no mesmo padrão -->
+  <!-- Se tiver e-mail e/ou portfólio, adicione mais dois badges aqui no mesmo padrão. -->
 </p>
 
 ---
